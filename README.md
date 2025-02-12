@@ -31,7 +31,7 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align="center">
+<!-- <p align="center">
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -61,7 +61,7 @@
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
-</p>
+</p> -->
   <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
