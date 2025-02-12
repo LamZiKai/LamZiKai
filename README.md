@@ -3,7 +3,7 @@
 <img align="right" width="300px" src="./bio-image.svg" />
 
 <p align="left">
-  <a href="mailto:rafaeldcmartins@gmail.com">
+  <a href="mailto:LamZiKai0818@outlook.com">
     <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/rafaeldcmartins">
