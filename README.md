@@ -9,9 +9,9 @@
 <!--   <a href="https://www.linkedin.com/in/rafaeldcmartins">
     <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
   </a> -->
-  <a>
+<!--   <a>
     <img src="https://img.shields.io/badge/Rafa Martins%231783-6633cc?style=flat-square&logo=Discord&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/martins-rafael/?tab=follow">
     <img src="https://img.shields.io/github/followers/martins-rafael?label=Follow&style=social" />
   </a>
