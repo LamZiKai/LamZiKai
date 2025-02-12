@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="mailto:LamZiKai0818@outlook.com">
-    <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com" />
+    <img src="https://img.shields.io/badge/-LamZiKai0818@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:LamZiKai0818@outlook.com" />
   </a>
   <a href="https://www.linkedin.com/in/rafaeldcmartins">
     <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
