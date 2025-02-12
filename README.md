@@ -25,7 +25,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
-  📫 How to reach me: <a href="mailto: james.wang.dev712@gmail.com">james.wang.dev712@gmail.com</a>
+  📫 How to reach me: <a href="mailto: james.wang.dev712@gmail.com">LamZiKai0818@outlook.com</a>
 </p>
 
 <hr>
