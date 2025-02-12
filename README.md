@@ -1,8 +1,8 @@
 
 
-## Hi there.  I'm Khai
+## Hi there.  I'm Lamzi Kai
 
-### I'm a Software Engineer from Vietnam
+### I'm a Software Engineer from Singapore
 ### Details about me
 - I’m Khai. I’m a web, mobile and blockchain developer living in Da Nang, Vietnam. I am a fan of technology, programming, and writing. I’m also interested in sports and photography.
 - 😊 Pronouns: **he/him**
