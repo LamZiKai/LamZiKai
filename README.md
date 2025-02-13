@@ -1,18 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+LamJunKai.)
-<p align="center">A humble Chinese CS student in US</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/e465e797a8ba928cea77fee8a9a10f4d/69e2b0dfda87e63f-b2/s500x750/c5de1bdb4fcf0084918c800e1953c93d57d2ca64.gif" />
-</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZhengtianChu&title=Repository,MultiLanguage,Stars,Commits,PullRequest,Followers&margin-w=15&theme=flat" alt="ZhengtianChu"  /></a> </p>
 
-
-- 🔭 I’m currently working **@ HPE**
+I am passionate developer with tons of experience with different stack.
 
 - 🌱 I’m currently learning **C++, Docker, Linux, Computer Arch**
 
-- 💬 Ask me about **Life in Texas and China**
+- 💬 Ask me about **Ask me about anything related to these stacks**
 
 - 📫 How to reach me **chuzhengtian99@gmail.com**
 
