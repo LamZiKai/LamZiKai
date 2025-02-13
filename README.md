@@ -8,7 +8,7 @@ I am passionate developer with tons of experience with different stack.
 
 - 💬 Ask me about **Ask me about anything related to these stacks**
 
-- 📫 How to reach me **chuzhengtian99@gmail.com**
+- 📫 How to reach me **LamZiKai0818@outlook.com**
 
 - ⚡ Fun fact **Basketball, Soccer, Rainbow 6**
 
