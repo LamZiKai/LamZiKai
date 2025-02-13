@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Lamzi+kai.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Lamzi+kai.)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LamZiKai&title=Repository,MultiLanguage,Stars,Commits,PullRequest,Followers&margin-w=15&theme=flat" alt="LamZiKai"  /></a> </p>
 
