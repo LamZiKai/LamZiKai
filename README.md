@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew Chu</h1>
+<h1 align="center">Hi 👋, I'm Lamzi Kai</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LamZiKai&title=Repository,MultiLanguage,Stars,Commits,PullRequest,Followers&margin-w=15&theme=flat" alt="LamZiKai"  /></a> </p>
 
