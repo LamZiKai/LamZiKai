@@ -4,7 +4,7 @@
 
 I am passionate developer with tons of experience with different stack.
 
-- 🌱 I’m currently learning **C++, Docker, Linux, Computer Arch**
+- 🌱 I’m currently learning how to build E-Commerce Website with Django**
 
 - 💬 Ask me about **Ask me about anything related to these stacks**
 
